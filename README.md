@@ -29,7 +29,7 @@ Proyecto Ygeia/
 | `--primary-500`  | `#03A0A0` | Color principal Teal        |
 | `--primary-400`  | `#1AC5BC` | Hover states, textos claros |
 | `--primary-600`  | `#028080` | Botones activos             |
-| `--bg-primary`   | `#FFFFFF` | Fondo blanco puro            |
+| `--bg-primary`   | `#FFFFFF` | Fondo blanco puro           |
 | `--bg-secondary` | `#05111A` | Fondo oscuro secciones      |
 | `--text-primary` | `#000000` | Texto principal             |
 
